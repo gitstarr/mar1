@@ -1,2 +1,7 @@
 this is first code
+<<<<<<< HEAD
 this is linux code
+=======
+this is second code from windows
+this is second code from windo linux
+>>>>>>> 146bff706c05560c7a0636b6d1f6d375ad44a797
